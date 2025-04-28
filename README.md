@@ -1,6 +1,11 @@
 # Hi there, I'm Ashley Hahn 👋
+Business Intelligence Analyst with a curious mind, an eye for detail, and a passion for understanding what drives people — and data. I started my academic journey studying Pre-Allied Health, diving deep into psychology, sociology, and human anatomy, where I discovered a fascination with human behavior and decision-making.
 
-Welcome to my GitHub profile! I'm passionate about using data to drive better decision-making. As a Business Intelligence Analyst, I specialize in turning complex data into actionable insights through dashboards, reports, and visual storytelling. I enjoy building projects that make an impact.
+Fast forward, I’m now completing a hands-on, project-based BI Analyst program through TripleTen — learning how to transform messy data into meaningful insights using SQL, Tableau, Power BI, Excel, and foundational Python. I enjoy building dashboards, cleaning data, and uncovering patterns that help solve real business problems.
+
+Whether it’s analyzing numbers or navigating new tech tools, I love making things make sense.
+
+Final project in progress. Certification coming soon. Opportunities? I’m ready for them.
 
 ---
 
