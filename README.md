@@ -29,9 +29,22 @@ Final project in progress. Certification coming soon. Opportunities? I’m ready
 
 ---
 
-## 📈 GitHub Stats
+## 📚 Data Projects Portfolio
 
-![Ashley Hahn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashleyhahn-BIA&show_icons=true&hide=stars&count_private=true&theme=radical)
+Here’s a curated list of my hands-on data projects completed as part of my Business Intelligence Analyst training:
+
+| Project | Title | Description |
+|:---|:---|:---|
+| 1 | [Manhattan Vacation Rental Market Analysis](https://github.com/ashleyhahn-BIA/Data_Projects_TripleTen/tree/main/Project-1) | Analyzed Airbnb listings in Manhattan to find top neighborhoods for vacation rentals. |
+| 2 | [A/B Test Analysis for Food Delivery Startup](https://github.com/ashleyhahn-BIA/Data_Projects_TripleTen/tree/main/Project-2) | Analyzed A/B test results using SQL to improve customer acquisition. |
+| 3 | [E-Commerce Business Conversion Funnel Analysis](https://github.com/ashleyhahn-BIA/Data_Projects_TripleTen/tree/main/Project-3) | Built a conversion funnel using transaction event logs. |
+| 4 | [Superstore Business Health Analysis](https://github.com/ashleyhahn-BIA/Data_Projects_TripleTen/tree/main/Project-4) | Identified profitable and loss-making products and strategies for profitability. |
+| 5 | [Superstore Return Analysis](https://github.com/ashleyhahn-BIA/Data_Projects_TripleTen/tree/main/Project-5) | Investigated root causes of high return rates and suggested improvements. |
+| 6 | [Shopify App Landscape and Review Analysis](https://github.com/ashleyhahn-BIA/Data_Projects_TripleTen/tree/main/Project-6) | Explored Shopify apps landscape, reviews, developer responsiveness. |
+
+---
+
+⭐ **Each project includes SQL code, visualizations, and actionable business insights.**  
 
 ---
 
