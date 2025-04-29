@@ -44,7 +44,7 @@ Here’s a curated list of my hands-on data projects completed as part of my Bus
 
 ---
 
-⭐ **Each project includes SQL code, visualizations, and actionable business insights.**  
+⭐️ Each project showcases real-world business challenges solved with SQL, Power BI, Tableau, and storytelling analytics.⭐ 
 
 ---
 
@@ -56,5 +56,3 @@ Lets turn data into meaningful insights together!
 Feel free to reach out if you want to collaborate, discuss ideas, or just say hi!
 
 ---
-
-⭐ Don't forget to check out my repositories and give a star if you find something interesting! ⭐
