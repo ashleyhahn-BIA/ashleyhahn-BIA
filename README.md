@@ -1,11 +1,13 @@
 # Hi there, I'm Ashley Hahn 👋
-Business Intelligence Analyst with a curious mind, an eye for detail, and a passion for understanding what drives people — and data. I started my academic journey studying Pre-Allied Health, diving deep into psychology, sociology, and human anatomy, where I discovered a fascination with human behavior and decision-making.
+Business Intelligence Analyst with hands-on experience in cost tracking, margin analysis, and performance reporting for e-commerce brands.
 
-Fast forward, I’m now completing a hands-on, project-based BI Analyst program through TripleTen — learning how to transform messy data into meaningful insights using SQL, Tableau, Power BI, Excel, and foundational Python. I enjoy building dashboards, cleaning data, and uncovering patterns that help solve real business problems.
+I specialize in transforming raw data into clean, actionable insights that improve forecasting, profitability, and marketing efficiency. I’m skilled in building dashboards and financial models using Excel, Power BI, SQL, and Tableau to support better business decisions.
 
-Whether it’s analyzing numbers or navigating new tech tools, I love making things make sense.
+I completed TripleTen’s rigorous BI Analyst program, where I built end-to-end projects involving customer segmentation, profitability analysis, and sales trend forecasting using real datasets.
 
-Final project in progress. Certification coming soon. Opportunities? I’m ready for them.
+Currently working as a Freelance Data Analyst, I’ve designed dynamic Excel tools to reforecast Customer Acquisition Costs (CAC), performed SKU and bundle-level margin analysis, and helped structure a data-driven June promo strategy for an e-commerce business.
+
+I’m passionate about solving real business problems with clean logic, strong visuals, and data storytelling that actually makes sense.
 
 ---
 
