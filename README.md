@@ -30,10 +30,17 @@ I’m passionate about solving real business problems with clean logic, strong v
 - **Skills:** Data visualization, dashboard development, KPI tracking, business analytics
 
 ---
+## 📁 Portfolio Projects
 
-## 📚 Data Projects Portfolio
+### 💼 Real-World Freelance Projects
 
-Here’s a curated list of my hands-on data projects completed as part of my Business Intelligence Analyst training:
+| Project | Title | Description |
+|:---|:---|:---|
+| 1 | [Margin & Promo Performance Analysis](https://github.com/ashleyhahn-BIA/RealWorld_Data_Portfolio/tree/main/Project-1) | Conducted margin and SKU-level profitability analysis for an e-commerce wellness brand. Evaluated bundle margins and built Excel-based promo planning tools. |
+| 2 | [New vs Returning Customer Behavior Breakdown](https://github.com/ashleyhahn-BIA/RealWorld_Data_Portfolio/tree/main/Project-2) | Analyzed CAC, revenue impact, and subscription lift from returning vs. new customers to inform acquisition and retention strategy. |
+| 3 | [Shopify App Landscape and Review Analysis](https://github.com/ashleyhahn-BIA/Data_Projects_TripleTen/tree/main/Project-6) | Explored Shopify app trends, types, review volumes, and developer responsiveness to support marketplace positioning. |
+
+### 🎓 TripleTen Certification Projects
 
 | Project | Title | Description |
 |:---|:---|:---|
@@ -42,7 +49,6 @@ Here’s a curated list of my hands-on data projects completed as part of my Bus
 | 3 | [E-Commerce Business Conversion Funnel Analysis](https://github.com/ashleyhahn-BIA/Data_Projects_TripleTen/tree/main/Project-3) | Built a conversion funnel using transaction event logs. |
 | 4 | [Superstore Business Health Analysis](https://github.com/ashleyhahn-BIA/Data_Projects_TripleTen/tree/main/Project-4) | Identified profitable and loss-making products and strategies for profitability. |
 | 5 | [Superstore Return Analysis](https://github.com/ashleyhahn-BIA/Data_Projects_TripleTen/tree/main/Project-5) | Investigated root causes of high return rates and suggested improvements. |
-| 6 | [Shopify App Landscape and Review Analysis](https://github.com/ashleyhahn-BIA/Data_Projects_TripleTen/tree/main/Project-6) | Explored Shopify apps landscape, reviews, developer responsiveness. |
 
 ---
 
